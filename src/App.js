@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react'
 import './App.css'
 
-var CLIENT_ID = '194663501672-ju3ki8lc4nndu61kepal8jhlsoiqcfu1.apps.googleusercontent.com' /** @PORT_3000 */
-// var CLIENT_ID = '194663501672-32u3cu1778ddsdbaboo5nhuorja99q27.apps.googleusercontent.com' /** @PORT_5000 */
-// var CLIENT_ID = '' /** @NETLIFY */
+var CLIENT_ID = '194663501672-ju3ki8lc4nndu61kepal8jhlsoiqcfu1.apps.googleusercontent.com'
 
 var API_KEY = 'AIzaSyBX1t5TxThJyOn_hc87Uq5Y_ggTMr1mSrY'
 
